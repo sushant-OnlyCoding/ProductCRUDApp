@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Laptop Dell",
+      "category": "Electronic",
+      "qualitylist": "Second Hand",
+      "price": 45000,
+      "comment": "Nice",
+      "date": "2022-04-14T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Fridge Samsung",
+      "category": "Electronic",
+      "qualitylist": "Brand New",
+      "price": 15000,
+      "comment": "In Good Condition",
+      "date": "2022-04-26T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Samsung J7 Prime",
+      "category": "Electronic",
+      "qualitylist": "Second Hand",
+      "price": 8000,
+      "comment": "nice",
+      "date": "2022-04-20T18:30:00.000Z",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
